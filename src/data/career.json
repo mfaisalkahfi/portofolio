@@ -1,26 +1,59 @@
 [
   {
-    "company": "Demo Company",
+    "company": "PT Eka Boga Inti (HokBen)",
     "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
+    "period": "December 2022 - Present",
     "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "description": "Job Description: 1. Enhance the security, programming logic, and business programming of the Android POS application for over 350 stores. 2. Build a new digital kiosk application and drive-thru self-service (becoming the first drive-thru in Indonesia with in-app self-payment). 3. Build a new QR code order application. 4. Revamp the customer feedback application with dynamic questions and surveys. 5. Enhance the new counter and customer display applications. 6. Create API integration between the data store and the data center. 7. Create payment gateway integration. 8. Develop middleware in coordination with the team for food delivery integration (HokBen x GoFood &amp; GrabFood). 9. Improve API integration between applications. 10. Lead Team to work on several application projects.",
+    "skills": [
+      "Leading",
+      "Collaboration",
+      "POS Development",
+      "Docker",
+      "PostgreSQL",
+      "NodeJs",
+      "PHP",
+      "ReactJs",
+      "React Native",
+      "ExpressJS",
+      "GoLang",
+      "Python",
+      "NestJS",
+      "RabbitMQ",
+      "AWS",
+      "Redis",
+      "Kotlin",
+      "Firebase",
+      "Supabase",
+      "App Management"
+    ]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
+    "company": "PT Catur Sentosa Adiprana Tbk",
+    "role": "Software Engineer",
+    "period": "July 2020 - December 2022",
     "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "description": "Job Description: 1. Revamp UI/UX and add modules to the Sales Force Automation application. 2. Optimize the Web Report Dashboard to ensure more stable dashboard reporting. 3. Coordinate with the team (junior developers) to create a new CSA Driver System project.",
+    "skills": [
+      "VueJs",
+      "Laravel",
+      "SQL Server",
+      "Report Generation"
+    ]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "PT Timur Terang Transindo",
+    "role": "Application Developer",
+    "period": "September 2020 - February 2022",
+    "type": "Full time job",
+    "description": "Job Description: 1. Fixing programming bugs. 2. Working on requests to enhance the Transportation Management System application, from a financial perspective and for other users. 3. Collaborating with other developers to revamp the Company Profile website from .Net Core to PHP CodeIgniter. 4. Collaborating with other developers to revamp the Transportation Management System application from .Net Core to PHP CodeIgniter.",
+    "skills": [
+      "PHP",
+      "Code Igniter",
+      ".Net Core",
+      "Crystal Report",
+      "SQL Server",
+      "Excel"
+    ]
   }
 ]

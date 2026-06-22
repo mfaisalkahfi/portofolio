@@ -1,22 +1,21 @@
 {
-  "name": "John Doe",
-  "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
-  "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
-
+  "name": "M Faisal Kahfi",
+  "photoUrl": "PP.jpeg",
+  "intro": "As a Senior Full-Stack Developer & Team Lead with over a decade of experience (since 2016) in building scalable software architecture and leading engineering teams. Proven track record in pioneering retail automation and digital payment ecosystems, notably driving the technical execution for the first drive-thru self-service application in Indonesia with in-app self-payment. Adept at managing and securing enterprise Android POS systems deployed across 350+ stores, as well as architecting complex third-party middleware integrations (e.g., GoFood & GrabFood).",
+  "introHtml": "As a Senior Full-Stack Developer & Team Lead with over a decade of experience (since 2016) in building scalable <span>software architecture</span> and leading engineering teams. Proven track record in pioneering retail automation and digital payment ecosystems, notably driving the technical execution for the first drive-thru self-service application in Indonesia with in-app self-payment. Adept at managing and securing enterprise Android POS systems deployed across 350+ stores, as well as architecting complex third-party middleware integrations (e.g., GoFood & GrabFood).",
+  "webpageTitle": "M Faisal Kahfi",
+  "resumeUrl": "https://drive.google.com/file/d/1CS4eAtmwEvMHyJU6KewTsB45C8DecQPH/view?usp=sharing",
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/mfaisalkahfi",
       "icon": "mdi:github",
       "showInContact": true
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://linkedin.com/in/muhammad-faisal-kahfi/",
       "icon": "mdi:linkedin",
       "showInContact": true
     },
@@ -34,13 +33,13 @@
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:12112421.mfaisalkahfi@gmail.com",
       "icon": "mdi:email",
       "showInContact": true
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
+      "url": "https://wa.me/6285779191030",
       "icon": "mdi:whatsapp",
       "showInContact": true
     },
