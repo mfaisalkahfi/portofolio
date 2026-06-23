@@ -1,20 +1,115 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
-    "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
+    "title": "CSAN",
+    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise. Report Management and Sales.",
+    "images": [
+      "csan-01.webp",
+      "csan-02.webp"
+    ],
+    "tech": [
+      "Laravel",
+      "CSS"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "link": "https://csan.co.id/",
+    "category": "Company Website"
+  },
+  {
+    "title": "Sales Force Automation (SFA) Mobile App",
+    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
+    "images": [
+      "astro-02.jpeg",
+      "#"
+    ],
+    "tech": [
+      "VueJs",
+      "Laravel",
+      "RestApi",
+      "CSS",
+      "Vuetify"
+    ],
+    "platforms": [
+      "apple-ios",
+      "android",
+      "web"
+    ],
+    "link": "https://mysfa.csan.co.id/",
+    "category": "Published App"
+  },
+  {
+    "title": "Company Profile - PT Timur Terang Transindo",
+    "description": "A high-performance web application built with modern frameworks to showcase technical expertise.",
+    "images": [
+      "astro-02.jpeg",
+      "#"
+    ],
+    "tech": [
+      "Codeigniter",
+      "RestApi"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "link": "https://timurterang.com/",
+    "category": "Company Project"
+  },
+  {
+    "title": "Transport Management System - PT Timur Terang Transindo",
+    "description": "This is a proprietary Transport Management System (TMS) designed to streamline, track, and manage the logistics, planner, fleet operations, and cargo delivery services for PT Timur Terang Transindo.",
+    "images": [
+      "astro-02.jpeg",
+      "#"
+    ],
+    "tech": [
+      "Codeigniter",
+      "RestApi",
+      "JavaScript",
+      "CSS"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "link": "",
+    "category": "Company Project"
+  },
+  {
+    "title": "Hot Spot Report WEB",
+    "description": "The website serves as a web-based catalog or sub-directory for browsing and accessing MODIS (Moderate Resolution Imaging Spectroradiometer) satellite datasets and products.",
+    "images": [
+      "astro-02.jpeg",
+      "#"
+    ],
+    "tech": [
+      "PHP Native",
+      "Bootstrap",
+      "Python",
+      "ArcGIS"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "link": "https://lepean.com/modis-catalog-sub/index",
     "category": "Published Website"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "title": "Lombok Mini Soccer",
+    "description": "This website is an online booking and information platform for a mini soccer sports venue or community hub located in Lombok, Indonesia",
+    "images": [
+      "astro-02.jpeg",
+      "#"
+    ],
+    "tech": [
+      "Codeigniter",
+      "Bootstrap",
+      "RestApi",
+      "CSS"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "link": "https://lombokminisoccer.com/",
+    "category": "Published Website"
   }
 ]
