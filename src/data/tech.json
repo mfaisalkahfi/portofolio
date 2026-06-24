@@ -5,12 +5,12 @@
       "skills": [
         {
           "name": "Flutter",
-          "level": 3,
+          "level": 2,
           "icon": "skill-icons:flutter-dark"
         },
         {
           "name": "Dart",
-          "level": 3,
+          "level": 2,
           "icon": "skill-icons:dart-dark"
         },
         {
@@ -47,6 +47,26 @@
           "name": "Tailwind CSS",
           "level": 3,
           "icon": "skill-icons:tailwindcss-dark"
+        },
+        {
+          "name": "Bootstrap",
+          "level": 3,
+          "icon": "devicon-plain:bootstrap"
+        },
+        {
+          "name": "Next JS",
+          "level": 2,
+          "icon": "skill-icons:nextjs-dark"
+        },
+        {
+          "name": "React JS",
+          "level": 2,
+          "icon": "skill-icons:react-dark"
+        },
+        {
+          "name": "Jquery",
+          "level": 3,
+          "icon": "devicon-plain:jquery"
         }
       ]
     },
@@ -55,13 +75,18 @@
       "skills": [
         {
           "name": "FastAPI",
-          "level": 3,
+          "level": 2,
           "icon": "skill-icons:fastapi"
         },
         {
           "name": "NestJS",
           "level": 2,
           "icon": "skill-icons:nestjs-dark"
+        },
+        {
+          "name": "Golang",
+          "level": 2,
+          "icon": "skill-icons:golang"
         },
         {
           "name": "Python",
@@ -72,6 +97,21 @@
           "name": "Firebase",
           "level": 2,
           "icon": "vscode-icons:file-type-firebase"
+        },
+        {
+          "name": "Node JS",
+          "level": 2,
+          "icon": "skill-icons:nodejs-dark"
+        },
+        {
+          "name": "PHP",
+          "level": 3,
+          "icon": "skill-icons:php-dark"
+        },
+        {
+          "name": "Laravel",
+          "level": 3,
+          "icon": "skill-icons:laravel-dark"
         }
       ]
     },
@@ -102,6 +142,16 @@
           "name": "MongoDB",
           "level": 2,
           "icon": "skill-icons:mongodb"
+        },
+        {
+          "name": "Supabase",
+          "level": 2,
+          "icon": "devicon-plain:supabase"
+        },
+        {
+          "name": "SQL Server",
+          "level": 2,
+          "icon": "devicon-plain:microsoftsqlserver"
         }
       ]
     },
@@ -112,6 +162,11 @@
           "name": "Docker",
           "level": 2,
           "icon": "skill-icons:docker"
+        },
+        {
+          "name": "Jenkins",
+          "level": 2,
+          "icon": "devicon-plain:jenkins"
         }
       ]
     },
